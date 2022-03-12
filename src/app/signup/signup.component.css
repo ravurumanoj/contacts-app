@@ -1,0 +1,42 @@
+.first-page{
+    padding: 100px 200px ;
+    font-family: Helvetica;
+    text-align: justify;
+    /* word-spacing: 5px; */
+    font-size: 12px;
+}
+h1{
+    padding: 0px 35px;
+    font-size: 25px;
+}
+.info{
+    font-size: 12px;
+}
+a.id3{
+    font-size: 12px;
+    color: #0072B5;
+    padding: 0px 0px 0px 65px;
+}
+a.id1{
+    text-align: center;
+    color: #0072B5;
+    padding: 50px 10px;
+    /* margin: 50px 0px; */
+}
+input{
+    margin: 10px 0px;
+    padding: 5px;
+}
+input.id2{
+    text-align: center;
+    background-color: #0072B5;
+    color: white;
+    padding: 5px 68px;
+    cursor: pointer;
+}
+.p-cursor{
+    cursor: pointer;
+}
+.m{
+    font-size: 10px;
+}
